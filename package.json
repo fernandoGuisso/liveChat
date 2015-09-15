@@ -1,0 +1,29 @@
+{
+  "name": "livechat",
+  "version": "1.0.0",
+  "description": "live chat with socket.io",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandoGuisso/liveChat.git"
+  },
+  "keywords": [
+    "node",
+    "socket.io",
+    "chat",
+    "live"
+  ],
+  "author": "fernandoGuisso",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/fernandoGuisso/liveChat/issues"
+  },
+  "homepage": "https://github.com/fernandoGuisso/liveChat#readme"
+}
